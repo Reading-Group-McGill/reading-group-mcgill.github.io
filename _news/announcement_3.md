@@ -1,7 +1,6 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+title: <a href="http://www.math.mcgill.ca/hoheisel/MPVC_Survey-6.pdf"> New survey paper </a> on mathematical programs with vanishing constraints, with Tim Hoheisel and colleagues
+date: 2020-02-18 16:11:00-0400
+inline: false
 ---
-
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
