@@ -13,8 +13,8 @@ title: publications
 
 #### Deep learning projects
 1. Pooladian, A-A.\*, Finlay, C., and Oberman, A., "Farkas layers: Don't shift the data, fix the geometry" (2019) [<a href="https://github.com/APooladian/FarkasLayers">Github</a>] [<a href="https://arxiv.org/pdf/1910.02840.pdf">PDF</a>]
-2. Pooladian, A-A.\*, Iannantuono, A., Finlay, C., and Oberman, A., "A Langevin dynamics based approach to generating sparse adversarial perturbations" (2019) [<a href="http://www.math.mcgill.ca/apooladian/LangevinDynamicsPreprint.pdf"> PDF </a>] 
+2. Pooladian, A-A.\*, Iannantuono, A., Finlay, C., and Oberman, A., "A Langevin dynamics based approach to generating sparse adversarial perturbations" (2019) [<a href="http://www.math.mcgill.ca/apooladian/LangevinDynamicsPreprint.pdf">PDF</a>] 
 3. Pooladian, A-A.\*, Orfanides, G., "Sparse autoencoder using Scholtes relaxation scheme" (2018)
 
 #### Fun projects
-1. Pooladian, A-A., "Batchwise projection algorithm onto total variation ball" [<a href="https://github.com/APooladian/TVProjection">Github</a>]
+1. Pooladian, A-A., "Batchwise projection algorithm onto total variation ball" (2019) [<a href="https://github.com/APooladian/TVProjection">Github</a>]
