@@ -16,7 +16,9 @@ news: true
 social: false
 ---
 
-As of Fall 2020, I will be starting my PhD at the <a href="https://cds.nyu.edu"> Center for Data Science </a> at New York University. I'm currently completing my Master's degree in (applied) mathematics at McGill University, under the supervision of <a href="http://www.math.mcgill.ca/hoheisel/">Tim Hoheisel</a> and <a href="http://www.adamoberman.net">Adam Oberman</a>. I was a Visiting Graduate Researcher at UCLA for all of two weeks before I was forced to go home due to COVID19.
+As of Fall 2020, I will be starting my PhD at the <a href="https://cds.nyu.edu"> Center for Data Science </a> at New York University! 
+
+Currently, I'm completing my Master's degree in (applied) mathematics at McGill University, under the supervision of <a href="http://www.math.mcgill.ca/hoheisel/">Tim Hoheisel</a> and <a href="http://www.adamoberman.net">Adam Oberman</a>. I was a Visiting Graduate Researcher at UCLA for all of two weeks before I was forced to go home due to COVID19.
 
 Broadly speaking, I am interested in the interplay of optimization, computational and statistical optimal transport, high dimensional statistics, problems in deep learning, and inverse problems. 
 
