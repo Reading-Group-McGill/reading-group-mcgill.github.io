@@ -16,11 +16,11 @@ news: true
 social: false
 ---
 
-I am a Master's student in the Department of Mathematics and Statistics at McGill University, under the supervision of <a href="http://www.math.mcgill.ca/hoheisel/">Tim Hoheisel</a> and <a href="http://www.adamoberman.net">Adam Oberman</a>. Presently, I am a Visiting Graduate Researcher at UCLA and a participant of the long program in <a href="https://www.ipam.ucla.edu/programs/long-programs/high-dimensional-hamilton-jacobi-pdes/"> High Dimensional Hamilton-Jacobi PDEs </a>.
+As of Fall 2020, I will be starting my PhD at the <a href="https://cds.nyu.edu"> Center for Data Science></a> at New York University. I'm currently completing my Master's degree in (applied) mathematics at McGill University, under the supervision of <a href="http://www.math.mcgill.ca/hoheisel/">Tim Hoheisel</a> and <a href="http://www.adamoberman.net">Adam Oberman</a>. I was a Visiting Graduate Researcher at UCLA for all of two weeks before I was forced to go home due to COVID19.
 
 Broadly speaking, I am interested in the interplay of optimization, computational and statistical optimal transport, high dimensional statistics, problems in deep learning, and inverse problems. 
 
-I have been graciously funded by the NSERC CGS-M, the FRQNT Master's Scholarship, the Lorne Trottier Accelerator Fellowship, and Mitacs.
+My MSc has been graciously funded by the NSERC CGS-M scholarship, FRQNT Master's Scholarship, the Lorne Trottier Accelerator Fellowship, and Mitacs scholarship.
 
 Email: aram-alexandre[dot]pooladian[at]mail[dot]mcgill[dot]ca
 
