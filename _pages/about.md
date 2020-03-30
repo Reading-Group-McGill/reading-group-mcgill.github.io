@@ -13,18 +13,18 @@ profile:
     <!-- <p>Your City, State 12345</p> -->
 
 news: true
-social: false
+social: true
 ---
 
 As of Fall 2020, I will be starting my PhD at the <a href="https://cds.nyu.edu"> Center for Data Science </a> at New York University! 
 
-Currently, I'm completing my Master's degree in (applied) mathematics at McGill University, under the supervision of <a href="http://www.math.mcgill.ca/hoheisel/">Tim Hoheisel</a> and <a href="http://www.adamoberman.net">Adam Oberman</a>. I was a Visiting Graduate Researcher at UCLA for all of two weeks before I was forced to go home due to COVID19.
+Currently, I'm completing my Master's degree in (applied) mathematics at McGill University, under the supervision of <a href="http://www.math.mcgill.ca/hoheisel/">Tim Hoheisel</a> and <a href="http://www.adamoberman.net">Adam Oberman</a>.
 
 Broadly speaking, I am interested in the interplay of optimization, computational and statistical optimal transport, high dimensional statistics, problems in deep learning, and inverse problems. 
 
-My MSc has been graciously funded by the NSERC CGS-M scholarship, FRQNT Master's Scholarship, the Lorne Trottier Accelerator Fellowship, and Mitacs scholarship.
+<!-- My MSc has been graciously funded by the NSERC CGS-M scholarship, FRQNT Master's Scholarship, the Lorne Trottier Accelerator Fellowship, and Mitacs scholarship. -->
 
-Email: aram-alexandre[dot]pooladian[at]mail[dot]mcgill[dot]ca
+Email: (main) aram-alexandre[dot]pooladian[at]mail[dot]mcgill[dot]ca, or ap6599[at]nyu[dot]edu
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
