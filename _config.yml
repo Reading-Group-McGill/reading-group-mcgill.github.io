@@ -43,8 +43,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: Aram's math blog
+blog_description: Where a non-expert tries to talk about expert things
 
 # Pagination
 paginate: 4
@@ -126,5 +126,5 @@ scholar:
 # Other settings
 # -----------------------------------------------------------------------------
 jquery_version: "1.12.4"
-katex_version: "0.9.0"
+katex_version: "0.11.1"
 anchorjs_version: "3.2.2"
