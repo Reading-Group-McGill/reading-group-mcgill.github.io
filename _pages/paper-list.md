@@ -15,11 +15,13 @@ title: paper-list
 #### Wasserstein Gradient Flows and applications
 1. Overview of WGFs (e.g. Santambrogio)
 2. Implicit Bias of Gradient Descent for Wide Two-layer Neural Networks Trained with the Logistic Loss [<a href="https://arxiv.org/pdf/2002.04486.pdf">PDF</a>] (2020)
-3. -
+3. The Variational Formulation of the Fokker-Planck Equation [<a href="https://www-dimat.unipv.it/savare/Ravello2010/JKO.pdf">PDF</a>] (1998)
+4. Gradient Flows in Wasserstein Spaces and Applications to Crowd Movement [<a href="http://www.numdam.org/article/SEDP_2009-2010____A27_0.pdf">PDF</a>] (2009)
+6. On the Global Convergence of Gradient Descent for Over-parametrized Models using OT [<a href="https://arxiv.org/pdf/1805.09545.pdf">PDF</a>] (2019)
 
-#### Applications in machine learning/deep learing
+#### Applications in machine learning/deep learing/reinforcement learning
 1. How well do WGANs estimate the Wasserstein metric? [<a href="https://arxiv.org/pdf/1910.03875.pdf">PDF</a>] (2019)
-2. -
+2. Policy Optimization as Wasserstein Gradient Flows [<a href="https://arxiv.org/pdf/1808.03030.pdf">PDF</a>] (2018)
 
 #### Computational OT
 1. Overview of dynamical formulation of OT (Benamou-Brenier) [<a href="https://link.springer.com/article/10.1007/s002110050002">PDF</a>] (2000)
