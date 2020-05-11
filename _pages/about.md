@@ -1,31 +1,17 @@
 ---
 layout: about
 permalink: /
-title: Aram-Alexandre Pooladian
+title: Reading Group --- Topics in OT
 description: <a href="https://www.mcgill.ca/mathstat/">Department of Mathematics and Statistics, McGill University</a>
 
-profile:
-  align: right
-  image: I_hate_this_photo_of_me.jpg
-  address: >
-    <!-- <p>1007 Burnside Hall, McGill University</p> -->
-    <!-- <p>123 your address street</p> -->
-    <!-- <p>Your City, State 12345</p> -->
-
 news: true
-social: true
+social: false
 ---
 
-As of Fall 2020, I will be starting my PhD at the <a href="https://cds.nyu.edu"> Center for Data Science </a> at New York University! 
+This is the webpage for the reading group on "Topics in Optimal Transport", organized by <a href="https://apooladian.github.io"> Aram-Alexandre Pooladian </a> at McGill University. 
 
-Currently, I'm completing my Master's degree in (applied) mathematics at McGill University, under the supervision of <a href="http://www.math.mcgill.ca/hoheisel/">Tim Hoheisel</a> and <a href="http://www.adamoberman.net">Adam Oberman</a>.
+The idea is simple: for however long we decide to do this, the members of the reading group will be taking turns presenting papers or chapters from the literature in areas such as machine learning, high-dimensional statistics, and numerical analysis. In an ideal setting, everyone will have at least skimmed the paper with the main presenter knowing the finer details. This is a beginner-friendly reading group, but this would be pointless if there were not any technical details.
 
-Broadly speaking, I am interested in the interplay of optimization, computational and statistical optimal transport, high dimensional statistics, problems in deep learning, and inverse problems. 
+As this is a reading group, there will be no "expert speakers" or recordings of the presentations. If you are interested in participating, please email readinggroupot[at]gmail[dot]com to be added to the listserv.
 
-<!-- My MSc has been graciously funded by the NSERC CGS-M scholarship, FRQNT Master's Scholarship, the Lorne Trottier Accelerator Fellowship, and Mitacs scholarship. -->
-
-Email: aram-alexandre[dot]pooladian[at]mail[dot]mcgill[dot]ca
-
-<!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
-
-<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+Tentatively, the meetings will occur Mondays at 2pm EST via Zoom.

@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Aram-Alexandre Pooladian
-email: # aram-alexandre.poooladian@mail.mcgill.ca
+name: Reading Group --- Topics in OT
+email: # readinggroupot@gmail.com
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -24,8 +24,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: APooladian
-twitter_username: APooladian
+github_username: # None
+twitter_username: # None
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -36,15 +36,14 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: > 
-    Don't forget to Like, Comment, and Subscribe!
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Aram's math blog
-blog_description: Where a non-expert tries to talk about expert things
+blog_name: # Aram's math blog
+blog_description: # Where a non-expert tries to talk about expert things
 
 # Pagination
 paginate: 4
