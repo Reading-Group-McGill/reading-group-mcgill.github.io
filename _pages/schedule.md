@@ -13,7 +13,7 @@ description: Presentation schedule
 | Andrei Zlotchevski | Introduction to transport inequalities  | <a href="../../assets/pdf/Meeting4.pdf">Notes</a> | June 01, 2020 |
 | Tudor Manole | Convergence of the empirical measure under $W_2$  |  <a href="../../assets/pdf/Meeting5_Tudor.pdf">Notes</a> | June 08, 2020 |
 | Aram Pooladian | Statistical bounds for entropic optimal transport  | <a href="../../assets/pdf/Meeting6.pdf">Notes</a> | June 15, 2020 |
-| Jack Richter-Powell | Sobolev Integral Probability Metrics  | --- | June 22, 2020 |
+| Jack Richter-Powell | Sobolev Integral Probability Metrics  | <a href="../../assets/pdf/Meeting7.pdf">Notes</a> | June 22, 2020 |
 | --- | Week off!  | --- | June 29, 2020 |
 | TBA | TBA  | TBA | July 6, 2020 |
 
